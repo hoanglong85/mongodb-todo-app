@@ -5,7 +5,7 @@ Hệ thống hỗ trợ: Tạo tài khoản người dùng, đăng nhập, thêm
 
 Ứng dụng bao gồm 2 phần:
 
-**1. SERVER: **
+**1. SERVER**
 Sử dụng để kết nối và xử lý dữ liệu + kết nối với mongodb
 a. Các package bao gồm:
 - express
